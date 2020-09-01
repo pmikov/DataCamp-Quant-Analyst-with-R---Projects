@@ -1,9 +1,8 @@
 # DataCamp-Quant-Analyst-with-R---Projects
-R projects done while completing "Quantitative Analyst with R Track" (May 2020):
-
-https://www.datacamp.com/statement-of-accomplishment/track/2ab1a21ad8ee19c821881be63c7fae8c19f9bd03
+R projects done while completing "Quantitative Analyst with R Track" (May 2020, Statement of Accomplishment: https://www.datacamp.com/statement-of-accomplishment/track/2ab1a21ad8ee19c821881be63c7fae8c19f9bd03)
 
 "Quantitative Analyst with R Track" includes the following courses:
+
 1.	Introduction to R for Finance
 2.	Intermediate R for Finance
 3.	Manipulating Time Series Data with xts and zoo in R
